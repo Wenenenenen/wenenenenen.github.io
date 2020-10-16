@@ -5430,9 +5430,9 @@ blockquote.pullquote.right {
   color: var(--font-color);
 }
 body {
-  cursor: url("mouse-n.cur"), default;
+  cursor: url("../img/mouse-n.cur"), default;
 }
 /**链接指针样式**/
 a:hover {
-  cursor: url("mouse-a.cur"), pointer;
+  cursor: url("../img/mouse-a.cur"), pointer;
 }
