@@ -5429,3 +5429,10 @@ blockquote.pullquote.right {
   background-color: var(--readmode-light-color);
   color: var(--font-color);
 }
+body {
+  cursor: url("mouse-n.cur"), default;
+}
+/**链接指针样式**/
+a:hover {
+  cursor: url("mouse-a.cur"), pointer;
+}
